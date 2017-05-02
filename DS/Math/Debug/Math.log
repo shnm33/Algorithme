@@ -1,3 +1,4 @@
 ﻿  Math.cpp
-c:\users\ojg-\documents\algorithme\ds\math\math.cpp(8): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+c:\users\ojg-\documents\algorithme\ds\math\math.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
   Math.vcxproj -> C:\Users\OJG-\Documents\Algorithme\DS\Math\Debug\Math.exe
